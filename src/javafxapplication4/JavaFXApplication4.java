@@ -35,7 +35,7 @@ public class JavaFXApplication4 extends Application {
         
         Scene scene = new Scene(root, 300, 250);
         
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Hello mundo!");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
